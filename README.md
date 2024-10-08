@@ -1,4 +1,9 @@
-## Hi there 👋
+## Buenas!, soy Victor Bricio un estudiante de ciberseguridad apasionado por este mundo.
+<img src="https://tryhackme-badges.s3.amazonaws.com/briciossj.png" alt="Your Image Badge" />
+
+
+
+
 
 <!--
 **VictorBricioSSJ/VictorBricioSSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
